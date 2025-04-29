@@ -18,6 +18,8 @@ This is a simple currency converter web app made using HTML, CSS, and JavaScript
 2. Open `index.html` in your browser  
 3. Try converting currencies!
 
+🔗 **Live Demo:** [Click here to try the Currency Converter](https://rayhqe.github.io/Currency-Converter/)
+
 ## API Used
 [Fawaz Ahmed Currency API](https://github.com/fawazahmed0/exchange-api)
 
